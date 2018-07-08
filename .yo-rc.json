@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "test-marco",
+    "libraryId": "4037c889-dc64-4cc6-9c9b-584b015241b0",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
